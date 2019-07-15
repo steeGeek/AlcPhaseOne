@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="b_about_alc">ABOUT ALC</string>
+    <string name="about_andela_p">About ALC</string>
+    <string name="b_my_profile">MY PROFILE</string>
+    <string name="my_profile_p">My Profile</string>
+    <string name="text_welcome">Welcome to ALC 4.0</string>
+    <string name="my_name">Steven Leonard</string>
+    <string name="my_track"><b>Track:</b> Android</string>
+    <string name="my_country"><b>Country:</b> Tanzania</string>
+    <string name="my_email"><b>Email: </b>stevenleonardedx@gmail.com</string>
+    <string name="my_phone"><b>Phone Number:</b> +255 652 066 960</string>
+    <string name="my_slack"><b>Slack Username:</b> stevenleonard</string>
+</resources>
