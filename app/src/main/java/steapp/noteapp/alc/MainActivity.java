@@ -1,4 +1,4 @@
-package steapp.noteapp.alc4phase1;
+package steapp.noteapp.alc;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

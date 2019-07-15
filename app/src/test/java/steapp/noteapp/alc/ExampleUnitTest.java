@@ -1,4 +1,4 @@
-package steapp.noteapp.alc4phase1;
+package steapp.noteapp.alc;
 
 import org.junit.Test;
 

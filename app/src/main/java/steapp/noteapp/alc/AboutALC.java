@@ -1,4 +1,4 @@
-package steapp.noteapp.alc4phase1;
+package steapp.noteapp.alc;
 
 import android.net.http.SslError;
 import android.support.v7.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package steapp.noteapp.alc4phase1;
+package steapp.noteapp.alc;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="steapp.noteapp.alc4phase1">
+    package="steapp.noteapp.alc">
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
@@ -12,24 +12,24 @@
         android:theme="@style/AppTheme"
         >
         <activity
-            android:name=".MyProfile"
+            android:name="steapp.noteapp.alc.MyProfile"
             android:label="@string/my_profile_p">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity"/>
+                android:value="steapp.noteapp.alc.MainActivity"/>
 
         </activity>
         <activity
-            android:name=".AboutALC"
-            android:parentActivityName=".MainActivity"
+            android:name="steapp.noteapp.alc.AboutALC"
+            android:parentActivityName="steapp.noteapp.alc.MainActivity"
             android:label="@string/about_andela_p">
 
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity"/>
+                android:value="steapp.noteapp.alc.MainActivity"/>
 
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="steapp.noteapp.alc.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
